@@ -21,5 +21,4 @@ The .mp3 file is for testing rn :>
 
 
 CREDITS: 
-DAWINCI146 - LEVEL CREATOR
 MY ANT - KEEPING ME COMPANY
