@@ -12,6 +12,11 @@ Let me know if i missed any in issues also. :3
 
 
 
+Tutorial how to insert songs soon.
+
+
+
+
 CREDITS: 
 DAWINCI146 - LEVEL CREATOR
 MY ANT - KEEPING ME COMPANY
