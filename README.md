@@ -9,3 +9,9 @@ Only 1.0 levels work
 List of objects available:
 Cube portal, Ship portal, Pulsing rods, 1.0 blocks found in stereo madness, ground deco for ground spikes, big spike, small spike, ground spike.
 Let me know if i missed any in issues also. :3
+
+
+
+CREDITS: 
+DAWINCI146 - LEVEL CREATOR
+MY ANT - KEEPING ME COMPANY
