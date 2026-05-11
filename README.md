@@ -22,3 +22,5 @@ The .mp3 file is for testing rn :>
 
 CREDITS: 
 MY ANT - KEEPING ME COMPANY
+
+Go use my second website shit but go check out the original creator!
